@@ -32,6 +32,10 @@ getHeroes(): void {
 
 // onSelect(hero: Hero): void {
 //   this.selectedHero = hero;
+//   routerLink="/detail/{{hero.id}}
+  
+
+
 // }
 
 }
